@@ -1,0 +1,8 @@
+prefix=/home/robotis/christmann_ws/devel
+
+Name: fira_basketball
+Description: Description of fira_basketball
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robotis/christmann_ws/devel/lib 
+Requires: 
